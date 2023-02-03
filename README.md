@@ -4,7 +4,7 @@
 
 ## 🔧 插件功能
 
-点击链接离开网站警告页面自动跳转
+离开网站警告页面自动跳转
 
 ![](https://s2.loli.net/2023/02/03/sk5GLvTafdEJCnK.png)
 ![](https://s2.loli.net/2023/02/03/T9AVlMyiLqOuzED.png)

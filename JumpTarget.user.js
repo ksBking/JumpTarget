@@ -2,7 +2,7 @@
 // @name               自动跳转链接
 // @namespace          autoJumpLink
 // @version            0.0.1
-// @description        自动跳转链接
+// @description        离开网站警告页面自动跳转
 // @icon               https://static.zhihu.com/heifetz/favicon.ico
 
 // @match              *://link.zhihu.com/*
